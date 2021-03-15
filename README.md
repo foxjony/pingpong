@@ -1,4 +1,4 @@
-# pingpong
+# Ping Pong for Android TV
 Це класична гра "Ping Pong" розроблена для Android TV для двох гравців.
 Керування грою відбувається двома мобільними телефонами в одній WiFi мережі.
 Додаток написаний за допомогою Kodular.io (App Inventor).
