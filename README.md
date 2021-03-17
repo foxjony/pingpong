@@ -1,4 +1,4 @@
-# Game Ping Pong Android TV for two players
+# Game "Ping Pong" Android TV for two players
 
 ### EN
 This is a classic game "Ping Pong" designed for Android TV for two players. This app needs to be installed on Android TV and two Android mobile phones connected to the same local Wi-Fi network. Each player must enter the IP address from the TV screen on their mobile phone and connect to the game as the first or second player.
