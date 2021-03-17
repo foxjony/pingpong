@@ -48,4 +48,4 @@ The application is provided as is without warranty and liability.
 
 Додаток надається як є без гарантій та відповідальності.
 
-*(с) Vladimir Didyk, Ukraine, 2021.*
+*(с) [Vladimir Didyk](https://www.facebook.com/avedidyk), Ukraine, 2021.*
