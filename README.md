@@ -14,7 +14,7 @@ The application uses two third-party extensions:
 
 The application is distributed free of charge and without advertising. 
 
-The application is provided as is without warranty and liability.
+The application is provided as is, without warranty and liability.
 
 ### RU
 Это классическая игра "Ping Pong" разработана для Android TV для двух игроков. 
@@ -30,7 +30,7 @@ The application is provided as is without warranty and liability.
 
 Приложение распространяется бесплатно и без рекламы. 
 
-Приложение предоставляется как есть без гарантий и ответственности.
+Приложение предоставляется как есть, без гарантий и ответственности.
 
 ### UA
 Це класична гра "Ping Pong" розроблена для Android TV для двох гравців. 
@@ -46,6 +46,6 @@ The application is provided as is without warranty and liability.
  
 Додаток поширюється безкоштовно та без реклами. 
 
-Додаток надається як є без гарантій та відповідальності.
+Додаток надається як є, без гарантій та відповідальності.
 
 *(с) [Vladimir Didyk](https://www.facebook.com/avedidyk), Ukraine, 2021.*
