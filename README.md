@@ -9,7 +9,7 @@ The application uses two third-party extensions:
 
  - UDP Protocol (by Ulrich Bien)
  - Tone Generator (by Juan_Antonio)
- - 
+
 The application is distributed free of charge and without advertising.
 The application is provided as is without warranty and liability.
 
@@ -22,7 +22,7 @@ The application is provided as is without warranty and liability.
 
  - UDP Protocol (автор Ulrich Bien)
  - Tone Generator (автор Juan_Antonio)
- - 
+
 Приложение распространяется бесплатно и без рекламы. 
 Приложение предоставляется как есть без гарантий и ответственности.
 
