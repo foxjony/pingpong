@@ -30,4 +30,4 @@ The open source application is distributed free of charge and without ads and is
  
 Додаток з відкритим кодом поширюється безкоштовно та без реклами та надається як є, без гарантій та відповідальності.
 
-*(с) [Vladimir Didyk](https://www.facebook.com/avedidyk), Ukraine, 2021.*
+*(с) [Vladimir Didyk](https://www.facebook.com/avedidyk) 2021 Ukraine*
