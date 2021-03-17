@@ -1,6 +1,6 @@
 # Ping Pong for Android TV
 
-(EN)
+##EN##
 This is a classic game "Ping Pong" designed for Android TV for two players. 
 The game is controlled by two mobile phones in one WiFi network. 
 The application is written using Kodular.io (App Inventor).
@@ -13,7 +13,7 @@ The application uses two third-party extensions:
 The application is distributed free of charge and without advertising.
 The application is provided as is without warranty and liability.
 
-(RU)
+##RU##
 Это классическая игра "Ping Pong" разработана для Android TV для двух игроков.
 Управление игрой происходит двумя мобильными телефонами в одной WiFi сети. 
 Приложение написано с помощью Kodular.io (App Inventor).
@@ -26,7 +26,7 @@ The application is provided as is without warranty and liability.
 Приложение распространяется бесплатно и без рекламы. 
 Приложение предоставляется как есть без гарантий и ответственности.
 
-(UA)
+##UA##
 Це класична гра "Ping Pong" розроблена для Android TV для двох гравців.
 Керування грою відбувається двома мобільними телефонами в одній WiFi мережі.
 Додаток написаний за допомогою Kodular.io (App Inventor).
