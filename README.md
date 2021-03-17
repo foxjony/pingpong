@@ -1,9 +1,7 @@
 # Ping Pong for Android TV
 
 ### EN
-This is a classic game "Ping Pong" designed for Android TV for two players. 
-
-The game is controlled by two mobile phones in one WiFi network. 
+This is a classic game "Ping Pong" designed for Android TV for two players. This app needs to be installed on Android TV and two Android mobile phones connected to the same local Wi-Fi network. Each player must enter the IP address from the TV screen on their mobile phone and connect to the game as the first or second player.
 
 The application is written using [Kodular.io](https://kodular.io) ([App Inventor](https://appinventor.mit.edu)).
 
@@ -12,14 +10,12 @@ The application uses two third-party extensions:
  - UDP Protocol (by Ulrich Bien)
  - Tone Generator (by Juan_Antonio)
 
-The application is distributed free of charge and without advertising. 
+The open source application is distributed free of charge and without ads.
 
 The application is provided as is, without warranty and liability.
 
 ### RU
-Это классическая игра "Ping Pong" разработана для Android TV для двух игроков. 
-
-Управление игрой происходит двумя мобильными телефонами в одной WiFi сети. 
+Это классическая игра "Ping Pong" разработана для Android TV для двух игроков. Это приложение необходимо установить на Android TV и на два мобильных телефона Android, подключенных к одной локальной сети Wi-Fi. Каждый игрок должен ввести IP-адрес с экрана телевизора на своем мобильном телефоне и подключиться к игре как первый или второй игрок.
 
 Приложение написано с помощью [Kodular.io](https://kodular.io) ([App Inventor](https://appinventor.mit.edu)).
 
@@ -28,14 +24,12 @@ The application is provided as is, without warranty and liability.
  - UDP Protocol (автор Ulrich Bien)
  - Tone Generator (автор Juan_Antonio)
 
-Приложение распространяется бесплатно и без рекламы. 
+Приложение с открытым кодом распространяется бесплатно и без рекламы. 
 
 Приложение предоставляется как есть, без гарантий и ответственности.
 
 ### UA
-Це класична гра "Ping Pong" розроблена для Android TV для двох гравців. 
-
-Керування грою відбувається двома мобільними телефонами в одній WiFi мережі. 
+Це класична гра "Ping Pong" розроблена для Android TV для двох гравців. Цей додаток потрібно встановити на Android TV та на два мобільні телефони Android, підключені до однієї локальної мережі Wi-Fi. Кожен гравець повинен ввести IP-адресу з екрану телевізора на своєму мобільному телефоні та підключитися до гри як перший або другий гравець.
 
 Додаток написаний за допомогою [Kodular.io](https://kodular.io) ([App Inventor](https://appinventor.mit.edu)).
 
@@ -44,7 +38,7 @@ The application is provided as is, without warranty and liability.
  - UDP Protocol (автор Ulrich Bien)
  - Tone Generator (автор Juan_Antonio)
  
-Додаток поширюється безкоштовно та без реклами. 
+Додаток з відкритим кодом поширюється безкоштовно та без реклами. 
 
 Додаток надається як є, без гарантій та відповідальності.
 
