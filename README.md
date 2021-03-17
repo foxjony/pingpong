@@ -10,11 +10,11 @@ The application uses two third-party extensions:
  - UDP Protocol (by Ulrich Bien)
  - Tone Generator (by Juan_Antonio)
 
-The application is distributed free of charge and without advertising.
+The application is distributed free of charge and without advertising. 
 The application is provided as is without warranty and liability.
 
 ### RU
-Это классическая игра "Ping Pong" разработана для Android TV для двух игроков.
+Это классическая игра "Ping Pong" разработана для Android TV для двух игроков. 
 Управление игрой происходит двумя мобильными телефонами в одной WiFi сети. 
 Приложение написано с помощью Kodular.io (App Inventor).
 
@@ -27,8 +27,8 @@ The application is provided as is without warranty and liability.
 Приложение предоставляется как есть без гарантий и ответственности.
 
 ### UA
-Це класична гра "Ping Pong" розроблена для Android TV для двох гравців.
-Керування грою відбувається двома мобільними телефонами в одній WiFi мережі.
+Це класична гра "Ping Pong" розроблена для Android TV для двох гравців. 
+Керування грою відбувається двома мобільними телефонами в одній WiFi мережі. 
 Додаток написаний за допомогою Kodular.io (App Inventor).
 
 Додаток використовує два сторонні розширення:
@@ -36,7 +36,7 @@ The application is provided as is without warranty and liability.
  - UDP Protocol (автор Ulrich Bien)
  - Tone Generator (автор Juan_Antonio)
  
-Додаток поширюється безкоштовно та без реклами.
+Додаток поширюється безкоштовно та без реклами. 
 Додаток надається як є без гарантій та відповідальності.
 
 *(с) Vladimir Didyk, Ukraine, 2021.*
