@@ -39,5 +39,4 @@ The application is provided as is without warranty and liability.
 Додаток поширюється безкоштовно та без реклами.
 Додаток надається як є без гарантій та відповідальності.
 
-
 *(с) Vladimir Didyk, Ukraine, 2021.*
