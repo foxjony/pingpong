@@ -34,3 +34,10 @@ The open source application is distributed free of charge and without ads and is
 
 ### Drag and Drop Kodular
 https://www.youtube.com/channel/UCrp4oh7A6EZGWTBxEh2lfvA/videos
+
+### Программирование для Android в MIT App Inventor 2
+### (48 уроков на русском)
+https://www.youtube.com/watch?v=STVtemnqjlw&list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ
+
+### App Inventor (rus pdf)
+http://www.mkpochtoi.ru/AppInventor_rus.pdf
