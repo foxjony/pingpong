@@ -46,5 +46,5 @@ http://www.mkpochtoi.ru/AppInventor_rus.pdf
 ### LDPlayer (Free Android Emulator for PC)
 https://ldplayer.net
 
-### Как создать Android игру за 10 минут на языке Python!
+### Как создать Android игру за 10 минут на языке Python! (Хауди Хо)
 https://www.youtube.com/watch?v=tqQnUio-j4g
