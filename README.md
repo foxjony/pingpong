@@ -32,7 +32,7 @@ The open source application is distributed free of charge and without ads and is
 
 *(с) [Vladimir Didyk](https://www.facebook.com/avedidyk) 2021 Ukraine*
 
-==========================================================================================
+==============================================
 
 ### Drag and Drop Kodular (24 video lessons in Indonesian)
 https://www.youtube.com/channel/UCrp4oh7A6EZGWTBxEh2lfvA/videos
