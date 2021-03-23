@@ -41,5 +41,5 @@ https://www.youtube.com/watch?v=STVtemnqjlw&list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUj
 ### App Inventor (RUS PDF)
 http://www.mkpochtoi.ru/AppInventor_rus.pdf
 
-### LDPlayer (Free Android Emulator)
+### LDPlayer (Free Android Emulator for PC)
 https://ldplayer.net
