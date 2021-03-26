@@ -41,7 +41,7 @@ https://www.youtube.com/channel/UCrp4oh7A6EZGWTBxEh2lfvA/videos
 https://www.youtube.com/c/AnwarMaulana3idot/videos
 
 ### Программирование для Android в MIT App Inventor 2 (48 видео уроков на русском)
-https://www.youtube.com/watch?v=STVtemnqjlw&list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ
+https://www.youtube.com/c/AlexeyBurkov/videos
 
 ### App Inventor (RUS PDF)
 http://www.mkpochtoi.ru/AppInventor_rus.pdf
