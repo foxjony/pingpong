@@ -34,6 +34,9 @@ The open source application is distributed free of charge and without ads and is
 
 ==============================================
 
+### App Inventor (RUS PDF)
+http://www.mkpochtoi.ru/AppInventor_rus.pdf
+
 ### Drag and Drop Kodular (24 video lessons in Indonesian)
 https://www.youtube.com/channel/UCrp4oh7A6EZGWTBxEh2lfvA/videos
 
@@ -43,11 +46,8 @@ https://www.youtube.com/c/AnwarMaulana3idot/videos
 ### Программирование для Android в MIT App Inventor 2 (48 видео уроков на русском)
 https://www.youtube.com/c/AlexeyBurkov/videos
 
-### App Inventor (RUS PDF)
-http://www.mkpochtoi.ru/AppInventor_rus.pdf
+### Как создать Android игру за 10 минут на языке Python! (Хауди Хо)
+https://www.youtube.com/watch?v=tqQnUio-j4g
 
 ### LDPlayer (Free Android Emulator for PC)
 https://ldplayer.net
-
-### Как создать Android игру за 10 минут на языке Python! (Хауди Хо)
-https://www.youtube.com/watch?v=tqQnUio-j4g
