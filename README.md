@@ -34,6 +34,16 @@ The open source application is distributed free of charge and without ads and is
 
 ==============================================
 
+### Size
+
+PingPong_Kodular.aia     -    75 920 bytes
+PingPong_Kodular.apk     - 5 476 352 bytes
+
+PingPong_Appinventor.aia -    82 076 bytes
+PingPong_Appinventor.apk - 3 283 821 bytes
+
+==============================================
+
 ### App Inventor (RUS PDF)
 http://www.mkpochtoi.ru/AppInventor_rus.pdf
 
