@@ -44,6 +44,16 @@ The open source application is distributed free of charge and without ads and is
 
 ==============================================
 
+### Forum
+
+- Kodular
+https://community.kodular.io/t/game-ping-pong-android-tv-for-two-players/121597
+
+- App Inventor
+https://community.appinventor.mit.edu/t/game-ping-pong-android-tv-for-two-players/33200/7
+
+==============================================
+
 ### App Inventor (RUS PDF)
 http://www.mkpochtoi.ru/AppInventor_rus.pdf
 
