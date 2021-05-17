@@ -44,6 +44,17 @@ The open source application is distributed free of charge and without ads and is
 
 ==============================================
 
+- (EN) Due to the peculiarities of the Wi-Fi network, the transfer of data from 2 gamers by UDP carried out cumulative packets, which is not good for real time. I want to make the next version with connection of 2 gamers on Bluetooth. This should solve the problem of delays.
+
+- (RU) Из-за особенностей сети Wi-Fi передача данных от 2-х геймеров по UDP осуществляется кумулятивными пакетами, что не очень хорошо для реального времени. Хочу сделать следующую версию с подключением 2-х геймеров по Bluetooth. Это должно решить проблему задержек.
+
+- (UA) Через особливості мережі Wi-Fi передача даних від 2-х геймерів по UDP здійснюється кумулятивними пакетами, що не дуже добре для реального часу. Хочу зробити наступну версію з підключенням 2-х геймерів по Bluetooth. Це повинно вирішити проблему затримок.
+
+- Bluetooth multi Connect управление 3 Bluetooth устройствами единовременно! Arduino App Inventor
+https://www.youtube.com/watch?v=uLYIvBPwdT4
+
+==============================================
+
 ### Forum
 
 - Kodular
